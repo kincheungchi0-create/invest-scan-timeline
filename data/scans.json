@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "投資掃描時間線",
+    "subtitle": "2026-10-26 · Asia/Hong_Kong",
+    "timezone": "Asia/Hong_Kong",
+    "generated_on": "2026-10-26",
+    "note": "found_at = Grok Bot 發現／匯報時間；內容為買方／未來科技掃描摘要，非投資建議。"
+  },
+  "entries": [
+    {
+      "id": "ft-20261026-1235",
+      "found_at": "2026-10-26T12:35:00+08:00",
+      "category": "future_tech",
+      "title": "Avicena microLED · Open CPX MSA · 洪镭／洪田 TGV 光刻",
+      "body": "① Avicena（私企）LightBundle：用 microLED＋多芯光纖束＋PD（唔使 InP／VCSEL）；1Tbps eKit 已出貨（約 335 通道×~3Gbps），ECOC 有可插拔 demo；10/7 再投約 $10M（累計約 $1.3 億）。6–24 個月係 scale-in／scale-up（XPU↔記憶體／XPU）評估期。\n② Open CPX MSA：9/17 出 Spec，可插拔 CPO／NPO 開放插座，最高 7.2T/socket（200G/lane，可外置 ELS 或模組內激光、液冷）；打破專有 CPO 鎖供應鏈。SCIVAX（nanoimprint）、ACON（FAU）新加入。\n③ 洪镭光學／母股洪田 603800.SH：10 月拿多家客戶 TGV 玻璃基板直寫光刻機批量單（解析≤6μm、約 510×515mm）；母股上半年虧損擴大、銅箔設備退潮後偏冷底，玻璃概念係新故事。",
+      "tickers": [
+        "603800.SH"
+      ],
+      "companies": [
+        "Avicena",
+        "Open CPX MSA",
+        "洪镭光學",
+        "洪田股份"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "ft-20261026-1202",
+      "found_at": "2026-10-26T12:02:00+08:00",
+      "category": "future_tech",
+      "title": "Eliyan NuLight · Shindo TGCV · PCIe-over-optics · Molex VersaBeam",
+      "body": "① Eliyan NuLight（私企，10/14 OCP）：2D microVCSEL chiplet——Nexus（TSMC 3nm reverse gearbox，212G PAM4→4×53G NRZ）+ Oscar（EIC）；目標約 50m、1.6T slice 可組到 6.4T NPO／12.8T XPO；用成熟 GaAs 避開 InP ELS，有 lane repair，而家 sampling。\n② 韓 Shindo ENG Lab（290520.KQ）玻璃陶瓷 TGCV（SEMICON West 10/15）：約 200μm 玻璃陶瓷中介層，GPU 上／HBM 下垂直堆、雙面液冷、CTE 可調；近月約 1400 韓圜，冷門、未驗證量產。\n③ PCIe-over-optics 架構：Lumentum 1060nm 2D VCSEL × Astera Scorpio × Corning 多模，OCP 架級 demo（只記架構，唔推 LITE／ALAB）。\n④ Molex VersaBeam Mini：16 芯 expanded-beam（約 3.5×9mm），1RU 面板可到約 3456 芯；Q4'26 樣品、H1'27 量產。",
+      "tickers": [
+        "290520.KQ"
+      ],
+      "companies": [
+        "Eliyan",
+        "Shindo ENG Lab",
+        "Lumentum",
+        "Astera Labs",
+        "Corning",
+        "Molex"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "ft-20261026-1132",
+      "found_at": "2026-10-26T11:32:00+08:00",
+      "category": "future_tech",
+      "title": "OCI-MSA Scale-Up · Lightmatter Laser-NIC · Ayar×緯穎×GUC",
+      "body": "① OCI-MSA：AMD／Broadcom／Meta／Microsoft／NVIDIA／OpenAI 組成，專門打機架內 Scale-Up。Gen1：單纖雙向、4 波長 × 53.125G NRZ（每向 212.5G）、微環調變 + 外置 ELS，刻意避開 PAM4／重 DSP；Gen2 約 2027 每向 400G。「矽中心、多源開放」——同 USFP pluggable 並行但層次唔同。\n② Lightmatter Guide DR「Laser-NIC」：激光由前面板 ELSFP 搬入 NIC 槽做液冷 LNIC，密度約 4 倍；Passage CPO＋Flex 做出 ORv3 開放機架 204.8T／1RU 量產驗證。\n③ Ayar Labs × 緯穎 × 創意（GUC）：OCP 首次 live——TeraPHY 嵌進 GUC MCP，SuperNova ELS + 可拆 FAU + 實時 telemetry，喺真實 ORV3 系統跑穩。Ayar 私企，唔推熱股。",
+      "tickers": [],
+      "companies": [
+        "OCI-MSA",
+        "Lightmatter",
+        "Ayar Labs",
+        "緯穎",
+        "創意電子 GUC"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "bs-20261026-1108",
+      "found_at": "2026-10-26T11:08:00+08:00",
+      "category": "buy_side",
+      "title": "Ackman Sheba ARC（以色列／AI／倉位）＋譚新強灼見名家（未核實）",
+      "body": "Bill Ackman｜10/22–23 Sheba ARC Summit＋其後訪問：睇好以色列經濟「全球最好之一」；10/7 後更樂觀；地區 reset、風險下降；若伊朗問題解決會有重大和平紅利。預計 5–10 年內出萬億市值公司；細人口喺 AI 時代反而係優勢。AI 本身唔係泡沫；私市估值較瘋、公市少啲；價值多數喺應用層。至今投近 $1 億以色列，仍積極搵；同太太喺 TASE 約 5%；另設 Pershing Square Ventures。美國最大風險係政治極化。醫療：承諾至少 $4 億設 AOI 推 BCI／腦傷科技。\n\n譚新強｜10/22 灼見名家影片（中東資金流向星港／AI 潛在威脅）——⚠️ 未核實，勿當真：只有灼見名家頁＋同一頻道 YouTube，未有第二獨立來源。粗要點（單源）：中東戰局後資金／人才流向香港、新加坡；AI 存在性風險應中美一齊傾；憂美國中期若民主黨回潮會收緊 AI。",
+      "tickers": [],
+      "companies": [
+        "Pershing Square",
+        "Sheba ARC",
+        "AOI"
+      ],
+      "links": [],
+      "verification": "譚新強條目：單源未核實，勿當真"
+    },
+    {
+      "id": "ft-20261026-1105",
+      "found_at": "2026-10-26T11:05:00+08:00",
+      "category": "future_tech",
+      "title": "Volantis chip-to-memory · Credo ZeroFlap ALC · HyperLight TFLN",
+      "body": "① Volantis（私企）——唔係 chip-to-chip，而係 chip-to-memory 光子 fabric：整合 micro-VCSEL（走 GaAs，避開 InP 樽頸）+ interposer 光波導；A-1 瞄 >10–20T 參數、約 1 萬 tok/s/user，目標 2027 交貨。約 10/1 宣佈 $88M Series A。\n② Wide-parallel ALC：Credo 10/12 OCP 推 1.6T ZeroFlap Active Light Cable——大量低速 micro-emitter 並行（wide & slow + NRZ），瞄 ≤50m row-scale、約 12W/端、2027 出貨。只記架構；CRDO 偏熱，唔追。\n③ HyperLight（私企）TFLN：薄膜鈮酸鋰 Chiplet 作 SiPh 以外嘅高速調變材料（面向 3.2T+）；6 月 $80M C 輪（MediaTek 等）。",
+      "tickers": [
+        "CRDO"
+      ],
+      "companies": [
+        "Volantis",
+        "Credo",
+        "HyperLight"
+      ],
+      "links": [],
+      "verification": "CRDO 偏熱——只記架構，唔推"
+    },
+    {
+      "id": "ft-20261026-1039",
+      "found_at": "2026-10-26T10:39:00+08:00",
+      "category": "future_tech",
+      "title": "Photon Bridge ELS · YPT／YMT TGV 電鍍 · Relativity HCF",
+      "body": "① Photon Bridge（Eindhoven 私企）：多路較低功率 InP 做多波長外部光源（ELS），每 λ 每纖最高約 40 mW；10/21 籌 €10M，樣品 2027、量產約 2028，卡 CPO／AI 互連雷射缺口。\n② 韓 TGV 電鍍二級——YPT（YMT 251370.KQ 子公司）專建 plating 線：10 月裝主設備，產能約 300→1600 片／月，目標 2027 年初運轉；約 70 億韓元融資。母股由 5 月高約 2.35 萬跌到約 7400（約 −69%），偏冷底。\n③ 商用空芯光纖（HCF）：Relativity Networks ChronoCore 喺 Colt 倫敦 metro 做咗 live PoC，遲延較傳統玻璃約低 30%；8 月約 $22M 融資＋約 $40M hyperscaler 單。私企 watch。",
+      "tickers": [
+        "251370.KQ"
+      ],
+      "companies": [
+        "Photon Bridge",
+        "YPT",
+        "YMT",
+        "Relativity Networks"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "ft-20261026-1009",
+      "found_at": "2026-10-26T10:09:00+08:00",
+      "category": "future_tech",
+      "title": "OCS 光電路交換 · Sivers InP · JNTC TGV",
+      "body": "① OCS 光電路交換：唔止 CPO。Google scale-out 已用；NVIDIA 預計塞入 Rubin Ultra NVL576 嘅 Scale-Up，放量約 2028。商用供應轉第三方（HUBER+SUHNER Polatis 等）；SiPho 新創如西班牙 iPronics（NVIDIA 有參投、仍私企）可盯。\n② Sivers（STO:SIVE）：瑞典 InP CW DFB，Glasgow 投約 US$30M，目標 2027Q4 年產逾 1 億顆，接 Lumentum／Coherent 已賣到 2029 嘅缺口。九月尾以嚟約跌三成——偏冷門燒錢細光電。\n③ JNTC（204270.KQ）：韓廠 TGV——2mm 厚玻璃銅填由一日級縮到幾分鐘，同 Toppan／市場傳 Broadcom 客戶驗證，計劃 2027 量產。",
+      "tickers": [
+        "SIVE.ST",
+        "204270.KQ"
+      ],
+      "companies": [
+        "Polatis",
+        "iPronics",
+        "Sivers Semiconductors",
+        "JNTC"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "bs-20261026-1000",
+      "found_at": "2026-10-26T10:00:00+08:00",
+      "category": "buy_side",
+      "title": "Ackman 10/25 X：下屆以色列內閣唔應有 Ben-Gvir／Smotrich",
+      "body": "Bill Ackman｜10/25 X（以色列大選前兩日）：以「明白以色列喺美國點被睇」表態——Itamar Ben-Gvir 同 Bezalel Smotrich 嘅言論同行動令以色列聲譽受巨大損害，全球媒體又當佢哋代表全部以色列人。主張下屆政府唔應有呢兩人——冇佢哋入閣會向世界傳「翻新頁」訊號，有助重建可信度、擴大 Abraham Accords。上週特拉維夫會議已讚 Netanyahu 自 10/7 防衛；今次明確話唔干預邊個做總理，只就邊個唔應入閣公開表態。Ackman 夫婦持有 Tel Aviv 交易所約 5%。",
+      "tickers": [],
+      "companies": [
+        "Pershing Square"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "bs-20261026-0936",
+      "found_at": "2026-10-26T09:36:00+08:00",
+      "category": "buy_side",
+      "title": "Burry Caldera／Busted · Dalio 債熊 · 李錄 Columbia",
+      "body": "Michael Burry｜10/17「Caldera」＋10/24「Busted」：10-6 S&P 創新高時，成分股較 10 年高跌 ≥20% 嘅比例達 55%。過去 40 年，指數創新高但大多數股票已入熊，另一例只有 2000。圖像＝caldera：指數平靜、底層破碎。質素但低迷名：LULU、PYPL、FISV、DECK、ZTS、ADBE。今日 Busted 冇 2000 咁平（中位 P/E ~17 vs ~10）→ 輪動可能走出指數：細價 value、國際＋精選 Busted。\n\nRay Dalio｜10/13：可交易國債約 $32T；2026 淨新發約 $2.1T。2027 固收融資淨需求約 $4.4T。Hyperscaler 2026 H1 發債約 $220B vs 2025 全年 ~$108B——金絲雀。明確寫：做空國債易過做多（非投資建議）。債熊「probably has a long way to go」。\n\n李錄 Li Lu｜10/5 Columbia Graham & Dodd：AI 永遠有 incremental cost → 資本紀律＋ boom/bust；Nvidia 市值約 GDP 15% vs 歷史龍頭 2–4%。中國十年橫行＝科技自立代價；橫行市＋好公司平價＝機會。Crypto fundamentally bogus。",
+      "tickers": [
+        "LULU",
+        "PYPL",
+        "FISV",
+        "DECK",
+        "ZTS",
+        "ADBE"
+      ],
+      "companies": [
+        "Scion Asset Management",
+        "Bridgewater",
+        "Himalaya Capital"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "ft-20261026-0934",
+      "found_at": "2026-10-26T09:34:00+08:00",
+      "category": "future_tech",
+      "title": "台股 TGV／玻璃試產鏈 · CPO FAU 瓶頸 · NVIDIA×Cisco USFP",
+      "body": "① 玻璃基板／TGV 台股鏈走到試產驗證：晶呈 4768 Q2 TGV 已占產品營收約 3.5%；TPK-KY 3673 中壢 TGV 試產線 9 月初啟動；群創 3481 玻璃核心喺度同客戶驗證、最快 2028 量產；設備端鈦昇 8027、蔚華科 3055 嘅 TGV 機喺驗證末段。七月炒完崩跌之後打橫，偏冷底。大規模玻璃核心研調多數擺 2030 後。\n② CPO FAU 對準貼合都係製造瓶頸（TrendForce 10/7）。設備商包括 ficonTEC、Suruga、All Ring、FitTech；產線側有 FormFactor TRITON、Teradyne Photon 100 光電共測。\n③ NVIDIA×Cisco 喺 OCP 推 USFP（400Gb/s per lane，OSFP 尺寸做到約 12.8Tb/s），TE／Amphenol 做多源生態。含義：未來 1–2 年 pluggable 同 CPO 並行，唔係全面切 CPO。",
+      "tickers": [
+        "4768.TW",
+        "3673.TW",
+        "3481.TW",
+        "8027.TW",
+        "3055.TW"
+      ],
+      "companies": [
+        "晶呈",
+        "TPK-KY",
+        "群創",
+        "鈦昇",
+        "蔚華科",
+        "NVIDIA",
+        "Cisco"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "bs-20261026-0909",
+      "found_at": "2026-10-26T09:09:00+08:00",
+      "category": "buy_side",
+      "title": "Gundlach／Fink／Cathie／Burry puts／Marks／譚新強 9/21",
+      "body": "Jeff Gundlach｜Oct 6–9：市場廣度空洞；金價若跌穿約 3800 需留意。\nLarry Fink｜Oct 14／21：AI CapEx 係主軸；若 data center 投資突然停＝衰退風險訊號。\nCathie Wood｜Oct 8–15：偏好 NVDA／AMD 等算力股，對記憶體環節較審慎。\nMichael Burry｜Oct 11：繼續整合 NDX＋SMH puts 倉位（同其後 Caldera／Busted 係另一篇）。\nHoward Marks｜Oct 1 Brookfield 相關言論已報過。\n譚新強｜2026-09-21 中環新譚（較早批次，今早複掃時一併記）。",
+      "tickers": [
+        "NVDA",
+        "AMD"
+      ],
+      "companies": [
+        "DoubleLine",
+        "BlackRock",
+        "ARK",
+        "Oaktree"
+      ],
+      "links": [],
+      "verification": null
+    },
+    {
+      "id": "ft-20261026-0900",
+      "found_at": "2026-10-26T09:00:00+08:00",
+      "category": "future_tech",
+      "title": "羲禾／XPHOR 科創板 · NVIDIA OOI · APC V1.0 · Vertical GaN",
+      "body": "① 羲禾科技（XPHOR）科創板註冊生效：獨立矽光子 PIC 設計純玩（400G/800G/1.6T，再鋪去 NPO/CPO）。Frost & Sullivan 講 2025 全球 SiPh 晶片份額約 13%；計劃募約 18.3 億人民幣做 AI/DC 產業化。已錄得盈利，唔係經典「跌完打橫」蝕錢底，但相對光通訊大熱股仍然冷啲。\n② NVIDIA Optics-on-Interposer（OOI）：光引擎搬上矽 interposer（唔係而家 CPO 嗰種有機基板）；仍係後 2028／Feynman 世代研發，近兩年唔好當收入故事。\n③ APC V1.0：4-core 多芯光纖 + FAU/SiPh 量產介面規格出齊，利淡靜啲嘅連接器／光纖環節。\n④ Vertical Semiconductor：垂直 GaN 拿 CHIPS LOI（AI rack 功耗／體積），暫無 ticker——watch only。",
+      "tickers": [],
+      "companies": [
+        "羲禾科技 XPHOR",
+        "NVIDIA",
+        "Advanced Photonics Coalition",
+        "Vertical Semiconductor"
+      ],
+      "links": [
+        {
+          "label": "證監會註冊",
+          "url": "https://www.csrc.gov.cn/csrc/c105906/c7666326/content.shtml"
+        },
+        {
+          "label": "東方財富",
+          "url": "https://finance.eastmoney.com/a/202610233906303728.html"
+        }
+      ],
+      "verification": "Vertical Semiconductor 暫無 ticker，只觀察"
+    }
+  ]
+}

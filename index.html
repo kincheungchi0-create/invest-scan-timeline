@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0f14" />
+  <meta name="description" content="投資掃描時間線 — 未來科技與買方言論，按發現時間由新到舊" />
+  <title>投資掃描時間線</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="phone">
+    <header class="header">
+      <p class="kicker">GROK BOT · SCAN</p>
+      <h1>投資掃描時間線</h1>
+      <p class="subtitle" id="subtitle">2026-10-26 · Asia/Hong_Kong</p>
+      <p class="meta-note" id="metaNote"></p>
+    </header>
+
+    <nav class="filters" role="tablist" aria-label="分類篩選">
+      <button type="button" class="filter active" data-filter="all" role="tab" aria-selected="true">全部</button>
+      <button type="button" class="filter" data-filter="future_tech" role="tab" aria-selected="false">未來科技</button>
+      <button type="button" class="filter" data-filter="buy_side" role="tab" aria-selected="false">買方</button>
+    </nav>
+
+    <p class="count" id="count"></p>
+    <main id="timeline" class="timeline" aria-live="polite"></main>
+
+    <footer class="footer">
+      <p>非投資建議 · 時間為發現／匯報時（香港）</p>
+      <p>資料來源：<code>data/scans.json</code></p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
